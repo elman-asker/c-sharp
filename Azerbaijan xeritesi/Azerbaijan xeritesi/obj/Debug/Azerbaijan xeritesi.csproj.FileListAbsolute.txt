@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\bin\Debug\Azerbaijan xeritesi.exe.config
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\bin\Debug\Azerbaijan xeritesi.exe
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\bin\Debug\Azerbaijan xeritesi.pdb
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\obj\Debug\Azerbaijan xeritesi.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\obj\Debug\Azerbaijan_xeritesi.Form1.resources
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\obj\Debug\Azerbaijan_xeritesi.Properties.Resources.resources
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\obj\Debug\Azerbaijan xeritesi.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\obj\Debug\Azerbaijan xeritesi.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\obj\Debug\Azerbaijan xeritesi.exe
+C:\Users\acer\source\repos\Azerbaijan xeritesi\Azerbaijan xeritesi\obj\Debug\Azerbaijan xeritesi.pdb
